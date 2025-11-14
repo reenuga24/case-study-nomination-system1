@@ -41,7 +41,7 @@ This system supports three user roles:
 🔗 **Live System:** *Not hosted yet*  
 (Replace this once you upload your system to 000webhost or any PHP host.)
 
-🔗 **GitHub Repository:** (ttps://github.com/reenuga24/case-study-nomination-system1/)
+🔗 **GitHub Repository:** (https://github.com/reenuga24/case-study-nomination-system1/)
 
 ⚠️ Note: PHP projects cannot run on GitHub Pages. Use a hosting service that supports PHP.
 
