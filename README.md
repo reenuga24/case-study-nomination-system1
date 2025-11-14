@@ -47,13 +47,6 @@ This system supports three user roles:
 
 ---
 
-## 👩‍💻 Developers
-Name | Role | Responsibility  
----- | ---- | --------------  
-Amiqal | Project Leader | Coordinated and managed repository  
-Reenuga | Designer | Handled design and layout  
-Vishaa | Documentation | Wrote content and report  
-
 ---
 
 ## 📜 License
